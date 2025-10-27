@@ -35,7 +35,7 @@ Pratica06/
 HTML5 • CSS3 • JavaScript (ES6+) • Bootstrap 5 • Fetch API (Async/Await)
 
 ---
-Esse é o link público do seu sistema CRUD de Alunos ✅  
+Esse é o link público do meu sistema CRUD de Alunos ✅  
 https://cru-dalunos.vercel.app/index.html
 
 ---
