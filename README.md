@@ -23,17 +23,22 @@ Pratica06/
 | PUT | /alunos/{id} | Atualiza um aluno |
 | DELETE | /alunos/{id} | Remove um aluno |
 
+---
 ⚙️ Funcionalidades
 ✅ Cadastrar novo aluno
 ✅ Listar todos os alunos
 ✅ Editar informações
 ✅ Excluir aluno com confirmação
 
-
+---
 💻 Tecnologias
 HTML5 • CSS3 • JavaScript (ES6+) • Bootstrap 5 • Fetch API (Async/Await)
 
+---
+Esse é o link público do seu sistema CRUD de Alunos ✅  
+https://cru-dalunos.vercel.app/index.html
 
+---
 ✨ Autor
 Isabelle Mendes – 4º semestre
 Disciplina: Programação Web (Newton Paiva)
